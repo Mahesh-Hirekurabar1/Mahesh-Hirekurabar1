@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi, I'm Mahesh 👋  <br>QA Engineer with 1+ year of experience in Manual Testing.<br> As i learning Automation Testing. Skilled in Selenium WebDriver, Java, TestNG, <br>for DataBase validation API Testing, SQL, and building maintainable automation frameworks.<br>
-
+Hi, I'm Mahesh 👋 <br>
+QA Engineer with 1+ year of experience in Manual Testing and Automation Testing. <br>
+Skilled in Functional, Regression, Smoke, Sanity Testing, Selenium WebDriver, Java, TestNG, Maven, POM Framework, API Testing, and SQL Database Validation. <br>
+Passionate about building reliable automation frameworks and improving software quality through effective testing practices.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahesh-hirekurabar-7b6b98243/) 
